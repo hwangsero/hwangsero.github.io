@@ -28,9 +28,9 @@ alt: image alt text
 <image src="assets/img/portfolio/cozynail_개발환경.png" style="width:500px"></image>
 
 ### 수행내용
-▶ FullCalendar 라이브러리를 이용한 예약현황을 나타낼 달력 구현
-▶ 예약 등록, 수정, 삭제 기능 구현
-▶ 회원 정보 검색 기능 구현
+▶ FullCalendar 라이브러리를 이용한 예약현황을 나타낼 달력 구현<br>
+▶ 예약 등록, 수정, 삭제 기능 구현<br>
+▶ 회원 정보 검색 기능 구현<br>
 
 ### 프로젝트를 통해 배운것
 
