@@ -5,13 +5,13 @@ caption: #what displays in the portfolio grid:
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
-title: 여행기록서비스
+title: <h1 style="text-align: center"> 여행기록서비스 </h1>
 subtitle: 여행을 다녀와서 찍은 사진들을 업로드만으로 간편하게 날짜, 장소 별로 분류하여 여행일지를 기록하는 서비스
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-<p align="center">## 프로젝트 소개</p>
+<h2 style="text-align: center"> 프로젝트 소개</h2>
 ### 개발기간
 2018-12-10 ~ 2019-01-17
 
@@ -29,7 +29,7 @@ alt: image alt text
 ### 수행내용
 이미지2
 
-### 프로젝트를 통해 배운것
+### 프로젝트를 통해 배운것<br>
 ##### 웹 개발에 대한 자신감이 생기다!
 ▶ Spring 프레임워크를 이용해 REST API를 기반으로 구현한 첫 프로젝트로써 웹의 동작과정과 MVC패턴에 대한 이해를 할 수 있었습니다.<br>
 ▶ 처음에는 팀원들과 아이디어 회의를 할때 모두 '이것을 정말 구현할 수 있을까?', '기한 내에 프로젝트를 끝낼 수 있을까?' 의구심을 가지고 막연한 자신감으로 시작했지만
