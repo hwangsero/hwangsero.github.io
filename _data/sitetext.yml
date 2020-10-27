@@ -27,12 +27,12 @@ portfolio:
     
 
 timeline:
-    title: "웹개발자로 향한 여정" 
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
+ title: "웹개발자로 향한 여정" 
+ text: "Lorem ipsum timeline"
+ section: timeline
+ # left is the default
     #start_align: "left"
-    events:
+ events:
  - title: "네일 아트 샵 예약 프로젝트"
  year: "2020-06 ~ 현재진행중"
  desc: "프로젝트 팀원 중 한 분의 아내가 실제 운영하는 네일 아트 샵에서 사용하고자 하는 예약, 매출 관리 서비스입니다. 관리자가 예약,매출을 관리할 수 있도록 도와주고 고객은 자신의 예약현황을 확인할 수 있게 도와주는 서비스입니다."
