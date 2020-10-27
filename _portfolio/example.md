@@ -32,7 +32,6 @@ alt: image alt text
 이미지2
 
 ### 프로젝트를 통해 배운것<br>
-<br>
 ##### 웹 개발에 대한 자신감이 생기다!
 <p class="item-intro">
 ▶ Spring 프레임워크를 이용해 REST API를 기반으로 구현한 첫 프로젝트로써 <span style="color:red">웹의 동작과정과 MVC패턴에 대한 이해</span>를 할 수 있었습니다.<br>
@@ -47,3 +46,6 @@ alt: image alt text
 <p class="item-intro">
 ▶ TO-DO 리스트관리, git의 효율적 사용, 의사소통 내용 공유하는 방식 등 <span style="color:red">프로젝트를 수행하고 관리하는데 있어 미흡</span>한 점이 있어 아쉬움이 남습니다. 
 </p>
+
+##### 깃허브 주소
+https://github.com/hwangsero/TriPory
