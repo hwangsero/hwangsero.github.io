@@ -5,7 +5,7 @@ caption: #what displays in the portfolio grid:
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
-title: <h1 style="text-align: center"> 여행기록서비스 </h1>
+title: 여행기록서비스 
 subtitle: 여행을 다녀와서 찍은 사진들을 업로드만으로 간편하게 날짜, 장소 별로 분류하여 여행일지를 기록하는 서비스
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
