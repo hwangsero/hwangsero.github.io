@@ -31,7 +31,8 @@ alt: image alt text
 ### 수행내용
 이미지2
 
-### 프로젝트를 통해 배운것<br>
+### 프로젝트를 통해 배운것
+<br>
 ##### 웹 개발에 대한 자신감이 생기다!
 <p class="item-intro">
 ▶ Spring 프레임워크를 이용해 REST API를 기반으로 구현한 첫 프로젝트로써 <span style="color:red">웹의 동작과정과 MVC패턴에 대한 이해</span>를 할 수 있었습니다.<br>
