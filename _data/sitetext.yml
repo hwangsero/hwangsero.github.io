@@ -11,7 +11,7 @@ services:
     list:
       - title: "정보처리기사"
         desc: "취득일자 : 2019-11-22"
-        image: assets/img/service/정보처리기사.PNG
+        image: assets/img/service/정보처리기사.png
       - title: "SQL개발자"
         desc: "취득일자 : 2020-10-27"
         image: assets/img/service/sqld.png      
@@ -41,7 +41,7 @@ timeline:
       - title: "네이버 공연 예약 프로젝트"
         year: "2020-04 ~ 2020-07"
         desc: "학업과 회사업무로 인해 잠시 소홀했던 웹 개발에 대해 다시 개념을 다잡고 구현 능력을 기르기 위해 수행한 프로젝트입니다. 부스트코스에서 진행하는 과정으로 강의를 수강하고 직접 예약시스템을 구현했습니다."
-        image: assets/img/timeline/네이버예약.PNG
+        image: assets/img/timeline/네이버예약.png
         alt: 
       - title: "파이콘 컨퍼런스 참여"
         year: "2019-08"
@@ -56,12 +56,12 @@ timeline:
       - title: "Java Spring을 이용한 쇼핑몰 구축 프로젝트 실무 교육"
         year: "2019-04 ~ 2019-06"
         desc: "웹 프로젝트를 더 수행해보고 실무 개발 환경을 경험해보고 싶어 받은 프로젝트 실무 교육입니다. 유니클로 쇼핑몰을 모델로 수행했으며 장바구니 기능을 담당하여 상품의 추가, 삭제, 변경, 전송 등의 기능을 구현했습니다."
-        image: assets/img/timeline/유니클로.PNG
+        image: assets/img/timeline/유니클로.png
         alt: image alt text
       - title: "[첫걸음] 자바(Java)웹개발자 양성과정"
         year: "2018-08 ~ 2019-01"
         desc: "본격적으로 프로그래밍을 학습하기 시작한 첫 교육입니다. 이 교육을 통해 Java, jsp, javascript, oracle 등 여러 개발 언어와 환경을 익혀 3번의 작은 프로젝트를 수행했습니다."
-        image: assets/img/timeline/Java웹개발자.PNG
+        image: assets/img/timeline/Java웹개발자.png
         alt: 
         # you can enforce the aligment
         align: right
