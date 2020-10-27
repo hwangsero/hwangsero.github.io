@@ -20,7 +20,7 @@ services:
         image:  assets/img/service/컴퓨터활용능력.png
 
 portfolio:
-    title: "Portfolio"
+    title: "포트폴리오"
     text: ""
     section: portfolio
     closebutton: "Close Project"
