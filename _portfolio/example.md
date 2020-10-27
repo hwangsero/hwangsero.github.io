@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: 여행기록서비스
-  subtitle: Triory
+  subtitle: TriPory
   thumbnail: assets/img/portfolio/트리포리.png
   
 #what displays when the item is clicked:
