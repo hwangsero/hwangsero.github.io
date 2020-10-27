@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: 네일아트 샵 예약 서비스
   subtitle: cozinail
-  thumbnail: assets/img/portfolio/트리포리.PNG
+  thumbnail: assets/img/portfolio/네일아트.png
   
 #what displays when the item is clicked:
 title: 네일아트 샵 예약 서비스
 subtitle: 네일아트 샵 예약, 매출 관리 서비스
-image: assets/img/portfolio/트리포리.PNG #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/네일아트.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
