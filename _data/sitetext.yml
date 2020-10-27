@@ -5,19 +5,19 @@ header:
     buttonlink: "#services"
 
 services:
-    title: "Services"
+    title: "보유자격증"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "정보처리기사"
+        desc: "취득일자 : 2019-11-22"
+     #   image: assets/img/service/정보처리기사.png
+      - title: "SQL개발자"
+        desc: "취득일자 : 2020-10-27"
+      #  image: assets/img/service/sqld.png      
+      - title: "컴퓨터활용능력1급"
+        desc: "취득일자 : 2018-03-16"
+       # image:  assets/img/service/컴퓨터활용능력.png
 
 portfolio:
     title: "Portfolio"
@@ -27,35 +27,45 @@ portfolio:
     
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
+title: "웹개발자로 향한 여정" 
+text: "Lorem ipsum timeline"
+section: timeline
+ # left is the default
     #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt: 
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt: 
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
-        # you can enforce the aligment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+ events:
+ - title: "네일 아트 샵 예약 프로젝트"
+ year: "2020-06 ~ 현재진행중"
+ desc: "프로젝트 팀원 중 한 분의 아내가 실제 운영하는 네일 아트 샵에서 사용하고자 하는 예약, 매출 관리 서비스입니다. 관리자가 예약,매출을 관리할 수 있도록 도와주고 고객은 자신의 예약현황을 확인할 수 있게 도와주는 서비스입니다."
+# image: assets/img/timeline/네일아트.png
+ alt: 
+ - title: "네이버 공연 예약 프로젝트"
+ year: "2020-04 ~ 2020-07"
+ desc: "학업과 회사업무로 인해 잠시 소홀했던 웹 개발에 대해 다시 개념을 다잡고 구현 능력을 기르기 위해 수행한 프로젝트입니다. 부스트코스에서 진행하는 과정으로 강의를 수강하고 직접 예약시스템을 구현했습니다."
+ #image: assets/img/timeline/네이버예약.png
+ alt: 
+ - title: "파이콘 컨퍼런스 참여"
+ year: "2019-08"
+ desc: "파이썬의 다양한 활용 사례와 실습을 해보고자 참여했습니다. 파이썬을 이용해 구현한 따릉이 이용현황 시각화, 자율주행 서비스의 활용 사례에 대해 좋은 강의를 들을 수 있었고 도커, AWS 활용 방법에 대해 실습할 수 있었습니다."
+ #image: assets/img/timeline/파이콘.png
+ alt:
+ - title: "파이썬을 이용한 빅데이터 분석"
+ year: "2019-07 ~ 2019-09"
+ desc: "웹 크롤링 동작 과정과 데이터 시각화에 관심이 생겨 받은 교육입니다. 파이썬 기초 문법에 대해 배울 수 있었으며 라이브러리를 이용해 데이터 시각화를 구현해 볼 수 있었습니다."
+ #image: assets/img/timeline/빅데이터분석.png
+ alt: 
+ - title: "Java Spring을 이용한 쇼핑몰 구축 프로젝트 실무 교육"
+ year: "2019-04 ~ 2019-06"
+ desc: "웹 프로젝트를 더 수행해보고 실무 개발 환경을 경험해보고 싶어 받은 프로젝트 실무 교육입니다. 유니클로 쇼핑몰을 모델로 수행했으며 장바구니 기능을 담당하여 상품의 추가, 삭제, 변경, 전송 등의 기능을 구현했습니다."
+ #image: assets/img/timeline/유니클로.png
+ alt: image alt text
+ - title: "자바(Java)웹개발자 양성과정"
+ year: "2018-08 ~ 2019-01"
+ desc: "본격적으로 프로그래밍을 학습하기 시작한 첫 교육입니다. 이 교육을 통해 Java, jsp, javascript, oracle 등 여러 개발 언어와 환경을 익혀 3번의 작은 프로젝트를 수행했습니다."
+ #image: assets/img/timeline/Java웹개발자.png
+ alt: 
+ # you can enforce the aligment
+ align: right
+ end: "Be Part <br> of Our <br> Story!"
 
 about:
     title: "About Us"
@@ -133,7 +143,7 @@ footer:
         icon: "fab fa-linkedin-in"
       - url: https://github.com/raviriley/agency-jekyll-theme
         icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://instagram.com 
         icon: "fab fa-instagram"
 
 
