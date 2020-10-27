@@ -27,8 +27,8 @@ portfolio:
     
 
 timeline:
-    title: "About" 
-    text: "웹개발자로 향한 여정"
+    title: "웹개발자로 향한 여정"
+    text: ""
     section: timeline
     # left is the default
     #start_align: "left"
@@ -65,7 +65,7 @@ timeline:
         alt: 
         # you can enforce the aligment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "소중한 "
 
 about:
     title: "About Us"
