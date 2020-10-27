@@ -52,6 +52,16 @@ timeline:
         year: "2019-07 ~ 2019-09"
         desc: "웹 크롤링 동작 과정과 데이터 시각화에 관심이 생겨 받은 교육입니다. 파이썬 기초 문법에 대해 배울 수 있었으며 라이브러리를 이용해 데이터 시각화를 구현해 볼 수 있었습니다."
         image: assets/img/timeline/빅데이터분석.png
+        alt:
+      - title: "Java Spring을 이용한 쇼핑몰 구축 프로젝트 실무 교육"
+        year: "2019-04 ~ 2019-06"
+        desc: "웹 프로젝트를 더 수행해보고 실무 개발 환경을 경험해보고 싶어 받은 프로젝트 실무 교육입니다. 유니클로 쇼핑몰을 모델로 수행했으며 장바구니 기능을 담당하여 상품의 추가, 삭제, 변경, 전송 등의 기능을 구현했습니다."
+        image: assets/img/timeline/유니클로.png
+        alt: 
+      - title: "자바(Java)웹개발자 양성과정"
+        year: "2018-08 ~ 2019-01"
+        desc: "본격적으로 프로그래밍을 학습하기 시작한 첫 교육입니다. 이 교육을 통해 Java, jsp, javascript, oracle 등 여러 개발 언어와 환경을 익혀 3번의 작은 프로젝트를 수행했습니다."
+        image: assets/img/timeline/Java웹개발자.png
         alt: 
         # you can enforce the aligment
         align: right
