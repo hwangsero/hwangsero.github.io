@@ -28,30 +28,30 @@ portfolio:
 
 timeline:
     title: "About" 
-    text: "Lorem ipsum timeline"
+    text: "웹개발자로 향한 여정"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "네일 아트 샵 예약 프로젝트"
+        year: "2020-06 ~ 현재진행중"
+        desc: "프로젝트 팀원 중 한 분의 아내가 실제 운영하는 네일 아트 샵에서 사용하고자 하는 예약, 매출 관리 서비스입니다. 관리자가 예약,매출을 관리할 수 있도록 도와주고 고객은 자신의 예약현황을 확인할 수 있게 도와주는 서비스입니다."
+        image: assets/img/timeline/네일아트.png
         alt: 
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "네이버 공연 예약 프로젝트"
+        year: "2020-04 ~ 2020-07"
+        desc: "학업과 회사업무로 인해 잠시 소홀했던 웹 개발에 대해 다시 개념을 다잡고 구현 능력을 기르기 위해 수행한 프로젝트입니다. 부스트코스에서 진행하는 과정으로 강의를 수강하고 직접 예약시스템을 구현했습니다."
+        image: assets/img/timeline/네이버예약.png
         alt: 
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+      - title: "파이콘 컨퍼런스 참여"
+        year: "2019-08"
+        desc: "파이썬의 다양한 활용 사례와 실습을 해보고자 참여했습니다. 파이썬을 이용해 구현한 따릉이 이용현황 시각화, 자율주행 서비스의 활용 사례에 대해 좋은 강의를 들을 수 있었고 도커, AWS 활용 방법에 대해 실습할 수 있었습니다."
+        image: assets/img/timeline/파이콘.png
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "파이썬을 이용한 빅데이터 분석"
+        year: "2019-07 ~ 2019-09"
+        desc: "웹 크롤링 동작 과정과 데이터 시각화에 관심이 생겨 받은 교육입니다. 파이썬 기초 문법에 대해 배울 수 있었으며 라이브러리를 이용해 데이터 시각화를 구현해 볼 수 있었습니다."
+        image: assets/img/timeline/빅데이터분석.png
         alt: 
         # you can enforce the aligment
         align: right
