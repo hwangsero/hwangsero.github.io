@@ -33,9 +33,14 @@ timeline:
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "네일 아트 샵 예약 프로젝트"
+        year: "2020-06 ~ 현재진행중"
+        desc: "프로젝트 팀원 중 한 분의 아내가 실제 운영하는 네일 아트 샵에서 사용하고자 하는 예약, 매출 관리 서비스입니다. 관리자가 예약,매출을 관리할 수 있도록 도와주고 고객은 자신의 예약현황을 확인할 수 있게 도와주는 서비스입니다."
+        image: assets/img/timeline/1.jpg
+        alt: 
+      - title: "네이버 공연 예약 프로젝트"
+        year: "2020-04 ~ 2020-07"
+        desc: "학업과 회사업무로 인해 잠시 소홀했던 웹 개발에 대해 다시 개념을 다잡고 구현 능력을 기르기 위해 수행한 프로젝트입니다. 부스트코스에서 진행하는 과정으로 강의를 수강하고 직접 예약시스템을 구현했습니다."
         image: assets/img/timeline/1.jpg
         alt: 
       - title: "파이썬을 이용한 빅데이터 분석"
@@ -43,9 +48,14 @@ timeline:
         desc: "웹 크롤링 동작 과정과 데이터 시각화에 관심이 생겨 받은 교육입니다. 파이썬 기초 문법에 대해 배울 수 있었으며 라이브러리를 이용해 데이터 시각화를 구현해 볼 수 있었습니다."
         image: assets/img/timeline/2.jpg
         alt: 
+      - title: "파이콘 컨퍼런스 참여"
+        year: "2019-05"
+        desc: "파이썬의 다양한 활용 사례와 실습을 해보고자 참여했습니다. 파이썬을 이용해 구현한 따릉이 이용현황 시각화, 자율주행 서비스의 활용 사례에 대해 좋은 강의를 들을 수 있었고 도커, AWS 활용 방법에 대해 실습할 수 있었습니다."
+        image: assets/img/timeline/2.jpg
+        alt: 
       - title: "Java Spring을 이용한 쇼핑몰 구축 프로젝트 실무 교육"
         year: "2019-04 ~ 2019-06"
-        desc: "웹 프로젝트를 더 수행해보고 싶고 실무 개발 환경을 경험해보고 싶어 받은 프로젝트 실무 교육입니다. 유니클로 쇼핑몰을 모델로 수행했으며 장바구니 기능을 담당하여 상품의 추가, 삭제, 변경, 전송 등의 기능을 구현했습니다."
+        desc: "웹 프로젝트를 더 수행해보고 실무 개발 환경을 경험해보고 싶어 받은 프로젝트 실무 교육입니다. 유니클로 쇼핑몰을 모델로 수행했으며 장바구니 기능을 담당하여 상품의 추가, 삭제, 변경, 전송 등의 기능을 구현했습니다."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "[첫걸음] 자바(Java)웹개발자 양성과정"
