@@ -29,9 +29,9 @@ alt: image alt text
 <image src="assets/img/portfolio/트리포리_개발환경.png" style="width:500px"></image>
 
 ### 수행내용
-▶ DB 및 클래스 설계
-▶ Ajax를 이용한 검색, 댓글, 리스트 기능 구현
-▶ 그 외 회원가입, 로그인, 마이페이지 등 주요 기능 구현
+▶ DB 및 클래스 설계<br>
+▶ Ajax를 이용한 검색, 댓글, 리스트 기능 구현<br>
+▶ 그 외 회원가입, 로그인, 마이페이지 등 주요 기능 구현<br>
 
 ### 프로젝트를 통해 배운것
 <br>
