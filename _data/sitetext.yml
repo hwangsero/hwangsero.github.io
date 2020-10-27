@@ -27,7 +27,7 @@ portfolio:
     
 
 timeline:
-    title: "About" 
+    title: "웹개발자로 향한 여정" 
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
@@ -48,9 +48,9 @@ timeline:
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "[첫걸음] 자바(JAVA)웹개발자 양성과정 [NCS]"
+        year: "2018-08 ~ 2019-01"
+        desc: "본격적으로 프로그래밍을 학습하기 시작한 첫 교육입니다. 이 교육을 통해 Java, jsp, javascript, oracle 등 여러 개발 언어와 환경을 익혀 3번의 작은 프로젝트를 수행했습니다."
         image: assets/img/timeline/4.jpg
         alt: 
         # you can enforce the aligment
