@@ -37,7 +37,7 @@ alt: image alt text
 <p class="item-intro">
 ▶ Spring 프레임워크를 이용해 REST API를 기반으로 구현한 첫 프로젝트로써 <span style="color:red">웹의 동작과정과 MVC패턴에 대한 이해</span>를 할 수 있었습니다.<br>
 ▶ 처음에는 팀원들과 아이디어 회의를 할때 모두 '이것을 정말 구현할 수 있을까?', '기한 내에 프로젝트를 끝낼 수 있을까?' 의구심을 가지고 막연한 자신감으로 시작했지만
-함께 고민하고 부딪쳐보면 <span style="color:red">무엇이든 할 수 있다는 확신한 자신감</span>으로 변하게 되었습니다.
+함께 고민하고 부딪쳐보면서 <span style="color:red">무엇이든 할 수 있다는 확신한 자신감</span>으로 변하게 되었습니다.
 </p>
 ##### 협력하는 힘을 배우다!
 <p class="item-intro">
