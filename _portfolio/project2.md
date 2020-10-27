@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: 유기견 찾기 서비스
   subtitle: cozynail
-  thumbnail: assets/img/portfolio/네일아트.png
+  thumbnail: assets/img/portfolio/마스코다스.png
   
 #what displays when the item is clicked:
 title: 유기견 찾기 서비스
 subtitle: 공공 데이터 API를 이용해 전국의 유기견 보호 현황을 알려주는 서비스
-image: assets/img/portfolio/네일아트.png #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/마스코다스.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
@@ -25,7 +25,7 @@ alt: image alt text
 </p>
 
 ### 개발환경
-이미지
+<image src="assets/img/portfolio/_개발환경.png" style="width:500px"></image>
 
 ### 수행내용
 ▶ 클래스 및 DB 설계<br>
