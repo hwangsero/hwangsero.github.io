@@ -26,7 +26,7 @@ alt: image alt text
 </p>
 
 ### 개발환경
-image: assets/img/portfolio/트리포리_개발환경.png
+<image src="assets/img/portfolio/트리포리_개발환경.png">
 
 ### 수행내용
 ▶ DB 및 클래스 설계
