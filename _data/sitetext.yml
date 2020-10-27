@@ -11,13 +11,13 @@ services:
     list:
       - title: "정보처리기사"
         desc: "취득일자 : 2019-11-22"
-        icon: assets/img/service/정보처리기사.PNG
+        image: assets/img/service/정보처리기사.PNG
       - title: "SQL개발자"
         desc: "취득일자 : 2020-10-27"
-        icon: assets/img/service/SQLD.PNG      
+        image: assets/img/service/SQLD.PNG      
       - title: "컴퓨터활용능력1급"
         desc: "취득일자 : 2018-03-16"
-        icon:  assets/img/service/컴퓨터활용능력.PNG
+        image:  assets/img/service/컴퓨터활용능력.PNG
 
 portfolio:
     title: "Portfolio"
@@ -36,7 +36,7 @@ timeline:
       - title: "네일 아트 샵 예약 프로젝트"
         year: "2020-06 ~ 현재진행중"
         desc: "프로젝트 팀원 중 한 분의 아내가 실제 운영하는 네일 아트 샵에서 사용하고자 하는 예약, 매출 관리 서비스입니다. 관리자가 예약,매출을 관리할 수 있도록 도와주고 고객은 자신의 예약현황을 확인할 수 있게 도와주는 서비스입니다."
-        image: assets/img/timeline/네일아트.PNG
+        image: assets/img/timeline/네일아트.png
         alt: 
       - title: "네이버 공연 예약 프로젝트"
         year: "2020-04 ~ 2020-07"
@@ -46,12 +46,12 @@ timeline:
       - title: "파이썬을 이용한 빅데이터 분석"
         year: "2019-07 ~ 2019-09"
         desc: "웹 크롤링 동작 과정과 데이터 시각화에 관심이 생겨 받은 교육입니다. 파이썬 기초 문법에 대해 배울 수 있었으며 라이브러리를 이용해 데이터 시각화를 구현해 볼 수 있었습니다."
-        image: assets/img/timeline/빅데이터분석.PNG
+        image: assets/img/timeline/빅데이터분석.png
         alt: 
       - title: "파이콘 컨퍼런스 참여"
         year: "2019-05"
         desc: "파이썬의 다양한 활용 사례와 실습을 해보고자 참여했습니다. 파이썬을 이용해 구현한 따릉이 이용현황 시각화, 자율주행 서비스의 활용 사례에 대해 좋은 강의를 들을 수 있었고 도커, AWS 활용 방법에 대해 실습할 수 있었습니다."
-        image: assets/img/timeline/파이콘.PNG
+        image: assets/img/timeline/파이콘.png
         alt: 
       - title: "Java Spring을 이용한 쇼핑몰 구축 프로젝트 실무 교육"
         year: "2019-04 ~ 2019-06"
