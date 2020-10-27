@@ -5,18 +5,18 @@ header:
     buttonlink: "#services"
 
 services:
-    title: "Services"
+    title: "보유자격증"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "정보처리기사"
+        desc: "취득일자 : 2019-11-22"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "SQL개발자"
+        desc: "취득일자 : 2020-10-27"
         icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "컴퓨터활용능력1급"
+        desc: "취득일자 : 2018-03-16"
         icon: fab fa-markdown
 
 portfolio:
