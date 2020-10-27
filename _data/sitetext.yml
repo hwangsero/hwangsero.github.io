@@ -91,9 +91,9 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "고집은 없지만 하고 싶고 배워보고 싶은건 많은 욕심 많은 개발자"
+    text: ""
+    subtext: 
     section: team
     people:
       - name: "Kay Garland"
