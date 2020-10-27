@@ -6,7 +6,7 @@ header:
 
 services:
     title: "보유자격증"
-    text: "Lorem ipsum"
+    text: ""
     section: services
     list:
       - title: "정보처리기사"
