@@ -25,7 +25,7 @@ alt: image alt text
 </p>
 
 ### 개발환경
-<image src="assets/img/portfolio/_개발환경.png" style="width:500px"></image>
+<image src="assets/img/portfolio/마스코다스_개발환경.png" style="width:500px"></image>
 
 ### 수행내용
 ▶ 클래스 및 DB 설계<br>
