@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: 여행기록서비스 
 subtitle: 여행을 다녀와서 찍은 사진들을 업로드만으로 간편하게 날짜, 장소 별로 분류하여 여행일지를 기록하는 서비스
-image: assets/img/portfolio/트리포리.PNG #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/트리포리.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
