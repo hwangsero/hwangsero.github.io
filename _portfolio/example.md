@@ -11,7 +11,7 @@ image: https://place-hold.it/400x300 #main image, can be a link or a file in ass
 alt: image alt text
 
 ---
-## 프로젝트 소개
+<p align="center">## 프로젝트 소개</p>
 ### 개발기간
 2018-12-10 ~ 2019-01-17
 
