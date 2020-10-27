@@ -48,4 +48,4 @@ alt: image alt text
 </p>
 
 ##### 깃허브 주소
-https://github.com/hwangsero/TriPory
+[https://github.com/hwangsero/TriPory] https://github.com/hwangsero/TriPory
