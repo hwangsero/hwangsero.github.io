@@ -90,7 +90,7 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "고집은 없지만 욕심 많은 개발자"
+    title: ""
     text: ""
     subtext: 
     section: team
