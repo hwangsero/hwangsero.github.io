@@ -2,7 +2,7 @@ header:
     title: Welcome to our Studio!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: #"#services"
+    buttonlink: "#services"
 
 services:
     title: "보유자격증"
@@ -27,9 +27,9 @@ portfolio:
     
 
 timeline:
- title: "웹개발자로 향한 여정" 
- text: "Lorem ipsum timeline"
- section: timeline
+title: "웹개발자로 향한 여정" 
+text: "Lorem ipsum timeline"
+section: timeline
  # left is the default
     #start_align: "left"
  events:
