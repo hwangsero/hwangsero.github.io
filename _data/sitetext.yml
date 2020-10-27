@@ -1,8 +1,7 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Web Backend Developer!
+    text: SeRo's Portfolio
+
 
 services:
     title: "보유자격증"
