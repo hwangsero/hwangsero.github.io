@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: 유기견 찾기 서비스
-  subtitle: cozynail
+  subtitle: mascotas
   thumbnail: assets/img/portfolio/마스코다스.png
   
 #what displays when the item is clicked:
