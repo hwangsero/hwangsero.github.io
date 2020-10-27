@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: 여행기록서비스
-  subtitle: Tripory
+  subtitle: Triory
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
@@ -40,7 +40,7 @@ alt: image alt text
 </p>
 ##### 협력하는 힘을 배우다!
 <p class="item-intro">
-▶ 비록 부족함이 많은 실력이었지만 열정 가득한 동기생들과 최대한 많은 대화를 나누려고 노력하여 함께 고민하고 좌절도 해보면서 <span style="color:red">문제를 해쳐나가는 힘</span>을 배울 수 있었습니다.<br>
+▶ 비록 부족함이 많은 실력이었지만 열정 가득한 동기생들과 최대한 많은 대화를 나누려고 노력하여 함께 고민하고 좌절도 해보면서 <span style="color:red">문제를 헤쳐나가는 힘</span>을 배울 수 있었습니다.<br>
 </p>
 ##### 프로젝트 관리 능력에 미흡함을 느끼다!
 <p class="item-intro">
@@ -48,4 +48,4 @@ alt: image alt text
 </p>
 
 ##### 깃허브 주소
-[Tripory]( https://github.com/hwangsero/TriPory, " https://github.com/hwangsero/TriPory")
+[TriPory 방문하기]( https://github.com/hwangsero/TriPory " https://github.com/hwangsero/TriPory")
