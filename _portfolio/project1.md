@@ -25,7 +25,7 @@ alt: image alt text
 </p>
 
 ### 개발환경
-<image src="assets/img/portfolio/_개발환경.png" style="width:500px"></image>
+<image src="assets/img/portfolio/cozynail_개발환경.png" style="width:500px"></image>
 
 ### 수행내용
 ▶ FullCalendar 라이브러리를 이용한 예약현황을 나타낼 달력 구현
