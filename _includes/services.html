@@ -17,7 +17,7 @@
           <span class="fa-stack fa-4x">
             <img class="rounded-circle img-fluid" src="{{ service.image}}"></i>
           </span>
-          <h4 class="service-heading">{{ service.title | markdownify }}</h4>
+          <h4 class="service-heading" style="margin-top:40px">{{ service.title | markdownify }}</h4>
           {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
         </div>
 	  {% endfor %}
