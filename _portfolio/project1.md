@@ -47,4 +47,4 @@ alt: image alt text
 
 
 ##### 깃허브 주소
-[cozynail 방문하기]( https://github.com/hwangsero/cozynail"https://github.com/hwangsero/cozynail")
+[cozynail 방문하기]( https://github.com/hwangsero/cozynail "https://github.com/hwangsero/cozynail")
