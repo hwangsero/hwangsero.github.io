@@ -37,9 +37,9 @@ alt: image alt text
 <br>
 ##### 공공 데이터 API를 이용해 실제 데이터를 이용하는 법을 배우다!
 <p class="item-intro">
-▶ 외부 API를 통해 실제 데이터를 가져와 사용하는 법을 익힐 수 있었습니다.
+▶ 외부 API를 통해 실제 데이터를 가져와 사용하는 법을 익힐 수 있었습니다.<br>
 ▶ 데이터를 가져오는 데 있어 많은 어려움이 있었으나 팀원들과 함께 고민하고 여러 시행착오를 거쳐 해결해 나갈 수 있었습니다.
 </p>
 
 ##### 깃허브 주소
-[cozynail 방문하기]( https://github.com/hwangsero/cozynail"https://github.com/hwangsero/cozynail")
+[Mascotas 방문하기]( https://github.com/hwangsero/Mascotas"https://github.com/hwangsero/Mascotas")
