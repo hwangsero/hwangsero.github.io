@@ -12,7 +12,7 @@ services:
         desc: "취득일자 : 2019-11-22"
         image: assets/img/service/정보처리기사.png
       - title: "SQL개발자"
-        desc: "취득일자 : 2020-10-27"
+        desc: "취득일자 : 2020-10-06"
         image: assets/img/service/sqld.png      
       - title: "컴퓨터활용능력1급"
         desc: "취득일자 : 2018-03-16"
